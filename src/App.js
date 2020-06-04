@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
      <h1>HELLO WORLD to all PIAIC Facaulty and Students</h1>
-     <p>First Automated Deployement</p>
+     <h2>First Automated Deployement</h2>
     </div>
   );
 }
