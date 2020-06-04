@@ -4,10 +4,11 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       HELLO WORLD
     </div>
   );
 }
 
 export default App;
+//className="App"
